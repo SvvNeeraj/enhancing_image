@@ -1,4 +1,4 @@
-# Enhancing Image – Deep Learning Image Super Resolution
+# Image Upscaling – Deep Learning Image Super Resolution
 
 This project focuses on **enhancing low-resolution images into high-resolution images** using **deep learning techniques**, mainly **RRDN (Residual-in-Residual Dense Network)**.  
 The goal is to improve image clarity and sharpness **without changing original colors or textures**.
